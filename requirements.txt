@@ -1,0 +1,7 @@
+sklearn
+pandas
+numpy
+tkinter
+customtkinter
+matplotlib
+graphviz
